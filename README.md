@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**RiqueH8/RiqueH8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RiqueH8** is 💥 _awesome_ 💥 
 
 - I’m currently working on High School
 - I’m currently learning algorithyms and stuff
