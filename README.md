@@ -1,7 +1,7 @@
 ### Oh! Hello there 
 
 
-##About me  
+##About me 
 
 -  I’m currently studying at CTISM
 -  I’m currently learning to code C
@@ -11,11 +11,11 @@
 
 ##Hobbies
 
-*Destroying libs with facts and logic
-*Playing the piano
-*Drawing flags
-*Read cool books
-*learning about history
+- Destroying libs with facts and logic
+- Playing the piano
+- Drawing flags
+- Read cool books
+- learning about history
 
 
                          **Luke 10:19**
