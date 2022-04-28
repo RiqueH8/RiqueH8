@@ -1,13 +1,24 @@
-### Hi there 👋
+### Oh! Hello there 
 
 
-**RiqueH8** is 💥 _awesome_ 💥 
+##About me  
 
-- I’m currently working on High School
-- I’m currently learning algorithyms and stuff
-- 📫 How to reach me: henriqueguarienticezar@gmail.com
-- 😄 Pronouns: Joe/Mama
-- ⚡ Fun fact: 1984 is real
+-  I’m currently studying at CTISM
+-  I’m currently learning to code C
+-  How to reach me: henriqueguarienticezar@gmail.com
+-  Pronouns: Joe/Mama
+-  Bilingual, portuguese🇧🇷 and english🇬🇧
+
+##Hobbies
+
+*Destroying libs with facts and logic
+*Playing the piano
+*Drawing flags
+*Read cool books
+*learning about history
+
+
+                         **Luke 10:19**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⠟⠛⠛⠛⠛⠛⣛⣻⣿⣿⣿⣿⣿⣟⣛⣛⣛⠛⠒⠲⠶⠦⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠏⠁⠀⠀⢀⣤⠶⣛⣩⣥⠤⠤⠤⠤⢤⣤⣤⣭⣭⣉⣉⣛⣛⣻⣭⣥⠬⡍⠛⢶⣄⡀⠀⠀⠀⠀⠀⠀⠀
