@@ -1,21 +1,21 @@
-### Oh! Hello there 
+### Oh! Olá 
 
 
-**About me 
+*Sobre mim:
 
--  I’m currently studying at CTISM
--  I’m currently learning to code C
--  How to reach me: henriqueguarienticezar@gmail.com
--  Pronouns: Joe/Mama
--  Bilingual, portuguese🇧🇷 and english🇬🇧
+-  Estudando no CTISM
+-  Aprendendo C#
+-  Meus contatos: henriqueguarienticezar@gmail.com
+-  Pronomes: Joe/Mama
+-  Bilingue, português:brazil: e inglês:gb:
 
-**Hobbies
+*Hobbies
 
-- Destroying libs with facts and logic
-- Playing the piano
-- Drawing flags
-- Read cool books
-- learning about history
+- Destroir libs com fatos e lógica💀
+- Tocar piano piano🎹
+- Desenhar bandeiras🚩
+- Ler livros diversos📚
+- Aprender sobre história📖 
 
 
          
@@ -23,7 +23,7 @@
          
          
          
-         **Luke 10:19
+         *Lucas 10:19
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⠟⠛⠛⠛⠛⠛⣛⣻⣿⣿⣿⣿⣿⣟⣛⣛⣛⠛⠒⠲⠶⠦⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠏⠁⠀⠀⢀⣤⠶⣛⣩⣥⠤⠤⠤⠤⢤⣤⣤⣭⣭⣉⣉⣛⣛⣻⣭⣥⠬⡍⠛⢶⣄⡀⠀⠀⠀⠀⠀⠀⠀
